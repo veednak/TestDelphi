@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.210,D:\Projects\MyFirstProj\Unit5.dfm=D:\Projects\MyFirstProj\Report.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,D:\Projects\MyFirstProj\MyFirstProj.dproj=D:\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.280,D:\Projects\MyFirstProj\Unit3.dfm=D:\Projects\MyFirstProj\MainEdit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,D:\Projects\MyFirstProj\Main.pas=D:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.994,D:\Projects\MyFirstProj\MainAddForm2.pas=D:\Projects\MyFirstProj\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.364,D:\Projects\MyFirstProj\MainAddForm2.pas=D:\Projects\MyFirstProj\MainAddFormPerson.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,D:\Projects\MyFirstProj\Unit3.dfm=D:\Projects\MyFirstProj\MainEdit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.994,D:\Projects\MyFirstProj\MainAddForm2.dfm=D:\Projects\MyFirstProj\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.851,=D:\Projects\MyFirstProj\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.477,=D:\Projects\MyFirstProj\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.449,C:\Users\Asus\Desktop\MyFirstProj\Report.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.202,D:\Projects\MyFirstProj\Unit2.dfm=D:\Projects\MyFirstProj\MainAdd.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.379,D:\Projects\MyFirstProj\MainAddForm2.dfm=D:\Projects\MyFirstProj\MainAddFormPerson.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.963,=D:\Projects\MyFirstProj\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.316,=D:\Projects\MyFirstProj\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.590,=D:\Projects\MyFirstProj\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.280,D:\Projects\MyFirstProj\Unit3.pas=D:\Projects\MyFirstProj\MainEdit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.398,D:\Projects\MyFirstProj\Unit3.pas=D:\Projects\MyFirstProj\MainEdit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.779,=D:\Projects\MyFirstProj\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.054,D:\Projects\MyFirstProj\Main.dfm=D:\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.210,D:\Projects\MyFirstProj\Unit5.pas=D:\Projects\MyFirstProj\Report.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.640,=D:\Projects\MyFirstProj\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.106,=D:\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.251,C:\Users\Asus\Desktop\MyFirstProj\MyFirstProj.dproj=C:\Users\Asus\Desktop\MyFirstProj\Test.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.202,D:\Projects\MyFirstProj\Unit2.pas=D:\Projects\MyFirstProj\MainAdd.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.612,=D:\Projects\MyFirstProj\Unit2.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Main.pas"/>
+    <File Path="Main.dfm"/>
+    <File Path="MainAdd.pas"/>
+    <File Path="MainAdd.dfm"/>
+    <File Path="MainEdit.pas"/>
+    <File Path="MainEdit.dfm"/>
+    <File Path="MainAddFormPerson.pas"/>
+    <File Path="MainAddFormPerson.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
